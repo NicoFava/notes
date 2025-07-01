@@ -1,2 +1,1 @@
-# probabilit-
-Appunti
+# Notes
